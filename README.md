@@ -1,6 +1,6 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex. 4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE:18/03/2026
+### DATE: 25/03/2026
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -30,17 +30,15 @@
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
 
+## Input:
+<img width="474" height="445" alt="image" src="https://github.com/user-attachments/assets/62b74332-b100-42da-bac3-45f27f7c8127" />
 
 ### Output:
-![Screenshot 2025-05-20 174432](https://github.com/user-attachments/assets/665828a1-86c8-4b9d-a83d-68c2d361da69)
-
-
-![Screenshot 2025-05-20 174447](https://github.com/user-attachments/assets/2ccb7c16-421c-4192-9738-fca930989115)
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/a6f157bc-1442-4d6b-a397-1f2baae17981" />
 
 
 
-
-### Name: Madhan C
+### Name:Madhan C
 ### Register Number:212224240081
 
 ## RESULT:
